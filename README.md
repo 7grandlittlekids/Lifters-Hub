@@ -2,14 +2,19 @@
 
 # Supported Games
 
+1. Lifting Legends Simulator
+2. Titan Training Simulator
+3. Lifting Simulator
+4. No Limit Lifting Simulator
+5. Hyper Lifting Simulator
+6. Dead Rails Tower Defense
 
-```
-Lifting Legends Simulator
-Titan Training Simulator
-Lifting Simulator
-No Limit Lifting Simulator
-Hyper Lifting Simulator
-Dead Rails Tower Defense
 
+# Get the Script Now! ( Keyless )
+
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/7grandlittlekids/Lifters-Hub/refs/heads/main/Loadstring.lua"))()
 ```
+
+
 
