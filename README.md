@@ -7,7 +7,10 @@
 3. Lifting Simulator
 4. No Limit Lifting Simulator
 5. Hyper Lifting Simulator
-6. Dead Rails Tower Defense
+6. Dead Rails Tower Defense ( Works but game is discontinued )
+7. Reborn Toilet Tower Defense
+8. Old Toilet TD
+
 
 
 # Get the Script Now! ( Keyless )
