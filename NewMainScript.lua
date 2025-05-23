@@ -1,4 +1,5 @@
 -- If ur using this script for Old Toilet TD, Include this lil script below
+-- CAN BE MODIFIED
 --[[
 getgenv().customAbbreviations = {
     ["Hyper Upgraded Titan Speakerman"] = "HUTS",
