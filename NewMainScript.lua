@@ -7,6 +7,7 @@ getgenv().customAbbreviations = {
     ["Santa TV Man"] = "STVM",
     ["Scientist TV Man"] = "STM",
     ["DJ TV Man"] = "DTM",
+    ["Titan Clock Man"] = "TCM",
 }
 --]]
 loadstring(game:HttpGet("https://raw.githubusercontent.com/7grandlittlekids/Lifters-Hub/refs/heads/main/Loadstring.lua"))()
